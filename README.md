@@ -1,2 +1,2 @@
-# Estudos-Python-2022
+# Curso Python
 material desenvolvido
