@@ -37,4 +37,3 @@ for n in chosen_word:
 #Hint - Don't worry about getting the user to guess the next letter. We'll tackle that in step 3.
 
 print(display)
-

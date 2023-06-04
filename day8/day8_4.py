@@ -62,4 +62,3 @@ if direction == "encode":
     encrypt(text, shift)
 else:
     decrypt(text, shift)
-
