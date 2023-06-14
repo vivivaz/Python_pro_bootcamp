@@ -1,2 +1,2 @@
 # Curso Python
-material desenvolvido
+material desenvolvido no curso.
